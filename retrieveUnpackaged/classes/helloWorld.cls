@@ -1,5 +1,5 @@
 public class helloWorld {
 
 // deploy using ANT migration tool
-//deploy using Jenkins
+//deploy using Jenkins & Github
 }
